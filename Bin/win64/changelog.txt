@@ -1,0 +1,13 @@
+- April 17, 2018
+> Fixed bug where animation data was being overrided by the defaults when loading a level.
+
+- April 15, 2018
+> Added a basic copy and paste of GameObjects
+
+- March 23, 2018
+> Holding Space and Dragging an Empty Area now pans the scene.
+> Ctrl + DoubleClick an object in the object list will center the scene around that object.
+> The renderer for the scene is a lot more responsive as it is using OpenGL rather than the default software renderer.
+> Project View, Object List, Sprite Sets, and History View can now be closed.
+> There is a new View menu option to show / hide the various panels.
+> Now you are asked "Are You Sure you want to Exit?" when you attempt to close the Editor.

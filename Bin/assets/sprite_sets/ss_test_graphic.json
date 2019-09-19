@@ -1,0 +1,11 @@
+{
+  "animation" : [
+    [
+      { "frameIndex" : 0, "frameTime" : 0.56}
+    ]
+  ],
+  "texture" : "assets/gfx/programmers.png",
+  "name": "Redacted Gfx",
+  "numCols" : 1,
+  "numRows" : 1
+}

@@ -1,0 +1,29 @@
+{
+    "gameobjects": [
+        {
+            "animation": {
+                "current_anim": -1,
+                "delta_time": 0,
+                "index": 0
+            },
+            "name": "Redacted Gfx",
+            "sprite": {
+                "alpha": 1,
+                "b": 1,
+                "g": 1,
+                "height": 605,
+                "positionX": 1,
+                "positionY": 320,
+                "r": 1,
+                "rotation": 0,
+                "spriteSet": "Redacted Gfx",
+                "uvX": 0,
+                "uvY": 0,
+                "width": 801
+            }
+        }
+    ],
+    "sprite_sets": [
+        "assets/sprite_sets/ss_test_graphic.json"
+    ]
+}

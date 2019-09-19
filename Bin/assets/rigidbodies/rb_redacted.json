@@ -1,0 +1,23 @@
+{
+    "width": 150.0,
+    "height": 100.0,
+    "shape_type" : 0,
+    "mass": 1.0,
+    "force_mask": 0,
+    "restitution": 0,
+    "damping": 0.95,
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "vel": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "acc": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "angle": 0,
+    "angularVelocity": 0
+  }
